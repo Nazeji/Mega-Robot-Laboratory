@@ -18,7 +18,7 @@ Intended features for this version:
   --- Editing of Game Data ---
   
   Level Data:
-  - Level Properties (Gfx Set # to Load, Palette #, Music #, Boss Music #, Level Size, other options, etc.)
+  - Level Properties (Gfx Set #, Palette #, Music #, Boss Music #, Level Size, other options, etc.)
   - Matrix (Level Map Layout + Screen Scroll settings)
   - Start and Checkpoint Locations (and to allow game to have unlimited checkpoints instead of its original limit of 2)
   - Graphic 8x8 Tile & Color Palette
